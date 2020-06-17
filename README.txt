@@ -3,7 +3,7 @@ Please note that this program IS NOT COMPLETE!
 Another thing of note: This program was designed to be used in ANOTHER PROGRAM. It still works fine, but this program is not designed to be at it's best with purely the command line. A link to the final project with the adapted version of this program can be found at the bottom of this page when it is complete.
 ===
 INSTRUCTIONS FOR USE:
-1. First, enter a five number code. The numbers can be any value (even negatives), seperated by spaces. if you're decrypting a message, enter the SAME code as the encrypter. Press ENTER.
+Enter five numbers from 0-26 (NOTE: must be in order from least to greatest due to a bug that will be patched soon), seperated by spaces. if you're decrypting a message, enter the SAME code as the encrypter. Press ENTER.
 
 2. Then, enter any message of any length. Special characters allowed, but this program doesn't like numbers (Patch for that is coming soon).If your decrypting a message, enter the message you received. Press ENTER.
 
