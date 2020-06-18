@@ -13,7 +13,7 @@ INSTRUCTIONS FOR USE:
 
 5 If you are decrypting, you're all done!
 ><><
-
+[![Run on Repl.it](https://repl.it/badge/github/PilotGuy772/Laeth)](https://repl.it/github/PilotGuy772/Laeth)
 ><><
 CHANGELOG:
 +++++++++
